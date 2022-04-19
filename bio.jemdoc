@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{bio.html}
+= Bio
+
+#[img{200}{}{Under Construction} images/UnderConstruction.jpeg]
+
+~~~
+{}{img_left}{./Images/UnderConstruction.jpeg}{Under Construction}{200}{}{}
+~~~

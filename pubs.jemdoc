@@ -1,0 +1,95 @@
+# jemdoc: menu{MENU}{pubs.html}
+= Publications
+
+- [https://dblp.uni-trier.de/pers/hd/b/Badita:Ajay dblp Page]
+- [https://github.com/ajaybadita GitHub Page]
+- [https://scholar.google.co.in/citations?user=DV92-SkAAAAJ&hl=en&oi=ao Google Scholar Page]
+- [https://orcid.org/0000-0002-5886-8801 ORCiD Page]
+- [https://arxiv.org/a/0000-0002-5886-8801.html arXiv author page]
+
+== Disclaimer
+This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In general, these works should not be reposted without the explicit permission of the copyright holder.
+#== Recent Talks and Preprints
+
+
+== Preprints
+- [https://cps.iisc.ac.in/students/rooji/ R.~Jinan], [index.html A.~Badita], [https://scholar.google.com/citations?user=7lj4UY8AAAAJ&hl=en T.~Bodas] and [https://ece.iisc.ac.in/~parimal/ P.~Parag].
+Load balancing policies with server-side cancellation of replicas. Submitted to [https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=90 IEEE\/ACM Transactions on Networking], Oct 2020. (Under revision). [https://arxiv.org/abs/2010.13575 arXiv].
+
+- [https://cps.iisc.ac.in/students/rooji/ R.~Jinan], [index.html A.~Badita], [http://www.ee.iitm.ac.in/~pradeep/ P.~Sarvepalli] and [https://ece.iisc.ac.in/~parimal/ P.~Parag].
+Latency optimal storage and scheduling of replicated fragments for memory-constrained servers. Submitted to [https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=18 IEEE Transactions on Information Theory], Oct 2020. (Under revision). [https://arxiv.org/abs/2010.01589 arXiv].
+
+
+== Journal Articles
+
+#=== 2021
+
+- [index.html A.~Badita],
+[https://ece.iisc.ac.in/~parimal/ P.~Parag],
+and [https://web.ics.purdue.edu/~vaneet/ V.~Aggarwal].
+Single-forking of coded subtasks for straggler mitigation.
+/[https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=90 IEEE\/ACM Transactions on Networking]/.
+[, Apr 2021].
+#[https://ieeexplore.ieee.org/document/9018098 ieeexplore].
+[, ieeexplore].
+[, appendix].
+[, paper].
+
+
+#=== 2020
+
+- [index.html A.~Badita],
+[https://ece.iisc.ac.in/~parimal/ P.~Parag],
+and [https://web.ics.purdue.edu/~vaneet/ V.~Aggarwal].
+Optimal server selection for straggler mitigation.
+/[https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=90 IEEE\/ACM Transactions on Networking]/.
+[https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9069346&punumber=90 28(2):709--721, Apr 2020].
+#[https://ieeexplore.ieee.org/document/9018098 ieeexplore].
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9018098 ieeexplore].
+[https://ieeexplore.ieee.org/ielx7/90/4359146/9018098/supp1-2973224.pdf?tp=&amp;arnumber=9018098 appendix].
+[papers/2020/tnet.pdf paper].
+
+#=== 2019
+
+- [index.html A.~Badita],
+[https://ece.iisc.ac.in/~parimal/ P.~Parag],
+and [http://ece.tamu.edu/~chmbrlnd J.-F.~Chamberland].
+Latency analysis for distributed coded storage systems.
+/[https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=18 IEEE Transactions on Information Theory]/.
+[https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8760492&punumber=18 65(8):4683--4698, Aug 2019].
+[https://ieeexplore.ieee.org/document/8685124 ieeexplore]. 
+[papers/2019/tit-1.pdf paper].
+
+
+== Conference Proceedings
+#=== 2021
+
+- [https://cps.iisc.ac.in/students/rooji/ R.~Jinan],
+[index.html A.~Badita], 
+[https://www.ee.iitm.ac.in/pradeep/ P.~Sarvepalli],
+and [https://ece.iisc.ac.in/~parimal/ P.~Parag].
+Low latency replication coded storage over memory-constrained servers.
+/[https://2021.ieee-isit.org/default.asp IEEE International Symposium on Information Theory (ISIT)]/.
+[https://2021.ieee-isit.org/VirtualAnnouncement.asp Virtual Conference, Jul 12-20, 2021].
+[ieeexplore]. 
+[papers/2020/infocom.pdf paper].
+[slides/2020/infocom.pdf slides].
+[videos/2020/infocom.mp4 video].
+
+
+#=== 2020 
+
+- [index.html A.~Badita], 
+[https://ece.iisc.ac.in/~parimal/ P.~Parag], 
+and [https://web.ics.purdue.edu/~vaneet/ V.~Aggarwal].
+Sequential addition of coded tasks for straggler mitigation.
+/[https://infocom2020.ieee-infocom.org/about IEEE International Conference on Computer Communications (INFOCOM)]/, 
+[https://infocom2020.ieee-infocom.org Virtual Conference, Jul 06-09, 2020].
+[ieeexplore]. 
+[papers/2020/infocom.pdf paper].
+[slides/2020/infocom.pdf slides].
+[videos/2020/infocom.mp4 video].
+
+== Dissertation
+To be updated soon.\n
+
